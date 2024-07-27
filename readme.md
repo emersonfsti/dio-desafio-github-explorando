@@ -58,7 +58,7 @@ Markdown: Crie documentações incríveis utilizando Markdown.
 ## Contato
 
 - Nome: Emerson Felix de Souza.
-- LinkedIn: Seu LinkedIn
-- GitHub: Seu GitHub
+- LinkedIn: [emersonfsti](www.linkedin.com/in/emersonfsti)
+- GitHub: [emersonfsti](https://github.com/emersonfsti)
 
 ---
