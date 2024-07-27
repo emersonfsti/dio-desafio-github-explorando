@@ -39,9 +39,34 @@ O Git é um conceito essencial no mercado de trabalho atualmente. Reforçamos su
 
 ## Funcionalidades
 
-Controle de versão: Utilize o Git para versionar o código.
-Fork e Pull Request: Aprenda a colaborar com projetos open-source.
-Markdown: Crie documentações incríveis utilizando Markdown.
+### Controle de versão
+
+Utilize o Git para versionar o código, permitindo:
+
+- **Histórico de alterações:** Acompanhe todas as mudanças feitas no código ao longo do tempo.
+- **Colaboração:** Trabalhe com múltiplos colaboradores de forma eficiente, integrando alterações de diferentes fontes.
+- **Rastreamento de bugs:** Identifique quais mudanças causaram problemas e reverta facilmente para versões anteriores.
+- **Branches:** Desenvolva novas funcionalidades de forma isolada e mescle-as ao projeto principal quando estiverem prontas.
+
+### Fork e Pull Request
+
+Aprenda a colaborar com projetos open-source através de:
+
+- **Fork:** Crie uma cópia de um repositório existente para ter sua própria versão onde você pode experimentar e fazer alterações sem afetar o projeto original.
+- **Pull Request:** Solicite que suas alterações sejam revisadas e integradas ao projeto original. Este processo envolve:
+  - **Revisão de código:** Outros desenvolvedores podem revisar suas alterações, sugerir melhorias ou detectar bugs.
+  - **Discussão:** Comente e discuta sobre as mudanças propostas para garantir a melhor implementação possível.
+  - **Integração:** Após a aprovação, suas mudanças são mescladas ao projeto principal, contribuindo para sua evolução.
+
+### Markdown
+
+Crie documentações incríveis utilizando Markdown, que oferece:
+
+- **Simplicidade:** Uma sintaxe fácil de aprender e usar, que permite criar documentos formatados rapidamente.
+- **Portabilidade:** Markdown é amplamente suportado em várias plataformas e ferramentas, garantindo que sua documentação seja consistente em diferentes ambientes.
+- **Flexibilidade:** Crie listas, tabelas, links, imagens, blocos de código e muito mais com uma formatação mínima.
+- **Legibilidade:** A documentação em Markdown é legível tanto no formato de texto cru quanto no formato renderizado, facilitando a leitura e edição por humanos.
+
 
 ---
 
